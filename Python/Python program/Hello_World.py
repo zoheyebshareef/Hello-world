@@ -7,3 +7,5 @@ print("Arabic = Marhaba Aalem!\n")
 print("Spanish = Hola Mundo!\n")
 
 print("Latin = Orbis Terrarum salve!\n")
+
+print("Urdu = Marhaba Duniya!\n")
